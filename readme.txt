@@ -1,4 +1,4 @@
-=== Theme Blvd Responsive Google Map ===
+=== Theme Blvd Responsive Google Maps ===
 Contributors: themeblvd
 Tags: themeblvd, google, map, maps, responsive
 Requires at least: 3.2
