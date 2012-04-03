@@ -9,29 +9,29 @@ Insert a responsive Google Map with shortcode [tb_google_map].
 
 == Description ==
 
-Insert a responsive Google Map with shortcode [tb_google_map].
-
 = How To Use =
 
-Use the shortcode [tb_google_map].
+After activating the plugin you can use the shortcode [tb_google_map] to display a Google Map.
 
-Example: `[tb_google_map address="6921 Brayton Drive, Anchorage, Alaska"]`
+Example:
+
+`[tb_google_map address="6921 Brayton Drive, Anchorage, Alaska"]`
 
 = Shortcode Parmeters =
 
 The following is a list of all parameters you can use within the shortcode.
 
-**address**: The address to show in the map. *(required)*
-**maptype**: Type of map - hybrid, satellite, roadmap, or terrain. *(optional)*
-**zoom**: Zoom level - use number 1-19. *(optional)*
-**html**: What to show in the popup, defaults to address. *(optional)*
-**popup**: Show or hide the popup, true or false. *(optional)*
-**width**: Width of map, defaults to 100%. Ex: 50%, 500px, etc. *(optional)*
-**height**: Height of map, defaults to 500px. Ex: 50%, 500px, etc. *(optional)*
+1. **address**: The address to show in the map. *(required)*,
+2. **maptype**: Type of map - hybrid, satellite, roadmap, or terrain. *(optional)*,
+3. **zoom**: Zoom level - use number 1-19. *(optional)*,
+4. **html**: What to show in the popup, defaults to address. *(optional)*,
+5. **popup**: Show or hide the popup, true or false. *(optional)*,
+6. **width**: Width of map, defaults to 100%. Ex: 50%, 500px, etc. *(optional)*,
+7. **height**: Height of map, defaults to 500px. Ex: 50%, 500px, etc. *(optional)*
 
 = Credits =
 
-This WordPress plugin utilizes the [link] (https://github.com/marioestrada/jQuery-gMap "gMap jQuery Plugin") by Cedric Kastner and Mario Estrada.
+This WordPress plugin utilizes the [link](https://github.com/marioestrada/jQuery-gMap "gMap jQuery Plugin") by Cedric Kastner and Mario Estrada.
 
 == Installation ==
 
