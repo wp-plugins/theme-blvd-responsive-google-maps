@@ -21,17 +21,17 @@ Example:
 
 The following is a list of all parameters you can use within the shortcode.
 
-1. **address**: The address to show in the map. *(required)*,
-2. **maptype**: Type of map - hybrid, satellite, roadmap, or terrain. *(optional)*,
-3. **zoom**: Zoom level - use number 1-19. *(optional)*,
-4. **html**: What to show in the popup, defaults to address. *(optional)*,
-5. **popup**: Show or hide the popup, true or false. *(optional)*,
-6. **width**: Width of map, defaults to 100%. Ex: 50%, 500px, etc. *(optional)*,
-7. **height**: Height of map, defaults to 500px. Ex: 50%, 500px, etc. *(optional)*
+1. **address**: *(required)* The address to show in the map.,
+2. **maptype**: *(optional)* Type of map - hybrid, satellite, roadmap, or terrain.,
+3. **zoom**: *(optional)* Zoom level - use number 1-19.,
+4. **html**: *(optional)* What to show in the popup, defaults to address.,
+5. **popup**: *(optional)* Show or hide the popup, true or false.,
+6. **width**: *(optional)* Width of map, defaults to 100%. Ex: 50%, 500px, etc.,
+7. **height**: *(optional)* Height of map, defaults to 500px. Ex: 50%, 500px, etc.
 
 = Credits =
 
-This WordPress plugin utilizes the [link](https://github.com/marioestrada/jQuery-gMap "gMap jQuery Plugin") by Cedric Kastner and Mario Estrada.
+This WordPress plugin utilizes the [gMap jQuery Plugin](https://github.com/marioestrada/jQuery-gMap "gMap jQuery Plugin") by Cedric Kastner and Mario Estrada.
 
 == Installation ==
 
