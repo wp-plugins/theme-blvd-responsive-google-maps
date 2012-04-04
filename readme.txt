@@ -45,7 +45,7 @@ This WordPress plugin utilizes the [gMap jQuery Plugin](https://github.com/mario
 
 2. Same Google Map from previous screenshot displayed on iPhone 3.
 
-3. How page was setup from previous two screenshots.
+3. How page was setup in previous two screenshots.
 
 == Changelog ==
 
