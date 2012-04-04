@@ -3,7 +3,7 @@ Contributors: themeblvd
 Tags: themeblvd, google, map, maps, responsive
 Requires at least: 3.2
 Tested up to: 3.3.1
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 
 Insert a responsive Google Map with shortcode [tb_google_map].
 
@@ -48,6 +48,10 @@ This WordPress plugin utilizes the [gMap jQuery Plugin](https://github.com/mario
 3. How page was setup from previous two screenshots.
 
 == Changelog ==
+
+= 1.0.1 =
+
+* Fixed shortcode output.
 
 = 1.0.0 =
 

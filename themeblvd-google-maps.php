@@ -81,6 +81,9 @@ function themeblvd_google_map_shortcode( $atts ) {
 	
 	// Unique ID
 	$id = rand();
+	
+	// Start output
+	ob_start();
 	?>
 	<script type="text/javascript">
 	jQuery(document).ready(function($) {
@@ -107,6 +110,6 @@ function themeblvd_google_map_shortcode( $atts ) {
 	</script>
 	<div id="tb_gmap_<?php echo $id; ?>" class="themeblvd-gmap" style="<?php echo $styles; ?>"></div>
 	<?php
-
+	return ob_get_clean();
 }
 add_shortcode( 'tb_google_map', 'themeblvd_google_map_shortcode' );
