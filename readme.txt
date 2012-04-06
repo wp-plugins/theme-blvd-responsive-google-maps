@@ -17,7 +17,7 @@ Example:
 
 `[tb_google_map address="6921 Brayton Drive, Anchorage, Alaska"]`
 
-= Shortcode Parmeters =
+= Shortcode Parameters =
 
 The following is a list of all parameters you can use within the shortcode.
 
